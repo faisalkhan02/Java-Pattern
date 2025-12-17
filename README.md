@@ -12,7 +12,7 @@ Pattern programs help in building strong logic and are commonly asked in exams a
 
 ## 📂 Structure
 ```
-Java-Pattern/
+Pattern-Printing-in-JAVA/
 ├── src/        # Java source code
 ├── README.md
 └── .gitignore
